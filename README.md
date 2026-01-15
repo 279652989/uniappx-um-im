@@ -11,7 +11,7 @@ uniappx 安卓和ios原生聊天软件
 # 项目演示2
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img src="./images/我的.jpg" width="30%" alt="我的">
-  <img src="./images/群聊.jpg" width="30%" alt="群聊">
+  <img src="./images/群聊消息.jpg" width="30%" alt="群聊">
   <img src="./images/私聊.jpg" width="30%" alt="私聊">
 </div>
 
